@@ -1,4 +1,4 @@
 FellowBouncer.v4.1
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.dll
-4d17f7a17c76511a1c56c9eeeeb161e522176b7d7745c75b62ad1257cd9372d9
-"FellowBouncer v4.1 - now auto-updates from GitHub. Details: https://github.com/ResistanceLab/Fellowship-Bouncer"
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v4.1.dll
+d56d6e3fb38853b057f045f56236b040c99081ddcc0561cd425d3bcf096fa9cf
+"FellowBouncer v4.1 - auto-updates from GitHub, versioned DLL names. Details: https://github.com/ResistanceLab/Fellowship-Bouncer"
