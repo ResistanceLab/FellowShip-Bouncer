@@ -1,4 +1,4 @@
-FellowBouncer.v5.2
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v5.2.dll
-7e3345827b339ff7ce19d1c72a2a4d6c1dbf7fcd0b51e0533a7ab984ff8c49e7
-"FellowBouncer v5.2 - auto-updates from GitHub. Details: https://github.com/ResistanceLab/Fellowship-Bouncer"
+FellowBouncer.v5.3
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v5.3.dll
+bd776c21eeca95ee518865550277e167216136676d06034477bf4ffe82ce6c04
+"FellowBouncer v5.3 - new Settings option: Auto-dismiss untagged (players with no monarch and no patron). Also /fb untagged on|off."
