@@ -1,4 +1,4 @@
-FellowBouncer.v5.3
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v5.3.dll
-bd776c21eeca95ee518865550277e167216136676d06034477bf4ffe82ce6c04
-"FellowBouncer v5.3 - new Settings option: Auto-dismiss untagged (players with no monarch and no patron). Also /fb untagged on|off."
+FellowBouncer.v5.5
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v5.5.dll
+eb1ff03bf283c72015915229c912d03c852959c9ddb29d919a40a4f9f7f78997
+"FellowBouncer v5.5 - Settings: 'Dismiss anyone not under Monarch' - type your monarch and anyone outside that allegiance is removed while you lead (blank = off). Replaces the v5.4 field. /fb keepmonarch <name>|clear."
