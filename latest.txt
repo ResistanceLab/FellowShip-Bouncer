@@ -1,4 +1,4 @@
-FellowBouncer.v5.5
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v5.5.dll
-eb1ff03bf283c72015915229c912d03c852959c9ddb29d919a40a4f9f7f78997
-"FellowBouncer v5.5 - Settings: 'Dismiss anyone not under Monarch' - type your monarch and anyone outside that allegiance is removed while you lead (blank = off). Replaces the v5.4 field. /fb keepmonarch <name>|clear."
+FellowBouncer.v6.0
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.0.dll
+25b8e58b2b2db61921d45366d9d50c66ee2915baf9c266fe6a718492156355a0
+"FellowBouncer v6.0 - Dictator Mode, Evac and Vouch all use nonce challenge-response now. No shared secret is ever sent over chat; answers are bound to the asker so they can't be relayed. Requests work on players out of range."
