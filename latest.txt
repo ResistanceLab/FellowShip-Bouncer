@@ -1,4 +1,4 @@
-FellowBouncer.v6.0
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.0.dll
-25b8e58b2b2db61921d45366d9d50c66ee2915baf9c266fe6a718492156355a0
-"FellowBouncer v6.0 - Dictator Mode, Evac and Vouch all use nonce challenge-response now. No shared secret is ever sent over chat; answers are bound to the asker so they can't be relayed. Requests work on players out of range."
+FellowBouncer.v6.1
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.1.dll
+961bdeac13f48783a266d917739a9cdb27a1ae87248c2c0aa916a4e4ca6e59f3
+"FellowBouncer v6.1 - unknown grace is now 5s (auto-vouch verifies allies in 1-2s). Leader re-challenges every 2s, announces non-responders at 2s, sweeps every second."
