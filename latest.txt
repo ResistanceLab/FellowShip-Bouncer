@@ -1,4 +1,4 @@
-FellowBouncer.v6.2
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.2.dll
-883d2853e37eb07051152788751ee13080b391dd3cecc800efb4db0da201b50e
-"FellowBouncer v6.2 - a member who doesn't answer a vouch challenge is asked at most 3 times, then left alone (no more repeating tells). Challenge tells now say what they are."
+FellowBouncer.v6.3
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.3.dll
+092e055ae7fe33e577adda2d2c37db8ff72bfc13062ef96f81b3f013446b220f
+"FellowBouncer v6.3 - fixes the updater breaking when several clients updated at once."
