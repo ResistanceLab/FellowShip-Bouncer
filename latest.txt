@@ -1,4 +1,4 @@
-FellowBouncer.v6.3
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.3.dll
-092e055ae7fe33e577adda2d2c37db8ff72bfc13062ef96f81b3f013446b220f
-"FellowBouncer v6.3 - fixes the updater breaking when several clients updated at once."
+FellowBouncer.v6.8
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.8.dll
+c1ca68feab5a30f6d4c7fcef716c1c7444c66c4a244abe80415b3fbcf9bb350a
+"FellowBouncer v6.8 - Settings simplified: 'Dismiss Banned', 'Auto-vote leader for allegiance members', 'Dismiss players not in my allegiance' (also covers untagged, uses your own character's allegiance), 'Auto-dismiss unknown after 5s'. 'Tell player on dismiss' removed."
