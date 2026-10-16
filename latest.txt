@@ -1,4 +1,4 @@
-FellowBouncer.v7.1
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v7.1.dll
-1b108bea33ed539d49da007a5b351df1524bafe4c3048590e58a50d2a5b50239
-"FellowBouncer v7.1 - no more 'please vouch' message in fellowship chat (verification is automatic between plugins). 'Dismiss players not in my allegiance' now also handles unknowns: unverifiable players are dismissed after 5s and kept out until seen and recorded."
+FellowBouncer.v7.2
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v7.2.dll
+279b544d76b701f2bffd702883c96e5bbeb878a9c7d961223d38e4c0aad890b7
+"FellowBouncer v7.2 - the window title now shows the real version (it was stuck reading v6.3 on every build since 6.3, even though the plugin and auto-updater were current)."
