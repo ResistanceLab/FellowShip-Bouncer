@@ -1,4 +1,4 @@
-FellowBouncer.v7.2
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v7.2.dll
-279b544d76b701f2bffd702883c96e5bbeb878a9c7d961223d38e4c0aad890b7
-"FellowBouncer v7.2 - the window title now shows the real version (it was stuck reading v6.3 on every build since 6.3, even though the plugin and auto-updater were current)."
+FellowBouncer.v7.3
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v7.3.dll
+a2c43ecc8014a69014b2cc8cae63472f7951f0283a21751e05d9fd7c0d3a85f3
+"FellowBouncer v7.3 - checks for updates every hour while logged in (not just at login), /fb update checks right now. Window title now shows the real version."
