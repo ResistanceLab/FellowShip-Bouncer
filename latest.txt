@@ -1,4 +1,4 @@
-FellowBouncer.v6.9
-https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v6.9.dll
-fb727c299aa7b59f65751b6e1205906eaad71226d05f40596068dc68222ade6b
-"FellowBouncer v6.9 - players already on record (seen or vouched) are no longer re-challenged while their ID data loads; a record is trusted for 30 days (/fb trustdays). Settings simplified: Dismiss Banned, Auto-vote leader for allegiance members, Dismiss players not in my allegiance, Auto-dismiss unknown after 5s."
+FellowBouncer.v7.1
+https://raw.githubusercontent.com/ResistanceLab/Fellowship-Bouncer/main/FellowBouncer.v7.1.dll
+1b108bea33ed539d49da007a5b351df1524bafe4c3048590e58a50d2a5b50239
+"FellowBouncer v7.1 - no more 'please vouch' message in fellowship chat (verification is automatic between plugins). 'Dismiss players not in my allegiance' now also handles unknowns: unverifiable players are dismissed after 5s and kept out until seen and recorded."
